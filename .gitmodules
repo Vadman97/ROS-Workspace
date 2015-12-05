@@ -1,0 +1,3 @@
+[submodule "kinect_bridge2"]
+	path = kinect_bridge2
+	url = https://github.com/Vadman97/kinect_bridge2.git
