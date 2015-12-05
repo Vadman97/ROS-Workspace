@@ -1,3 +1,6 @@
 [submodule "kinect_bridge2"]
 	path = kinect_bridge2
 	url = https://github.com/Vadman97/kinect_bridge2.git
+[submodule "node_example"]
+	path = node_example
+	url = https://github.com/tdenewiler/node_example.git
