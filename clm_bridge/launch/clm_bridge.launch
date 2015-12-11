@@ -1,0 +1,9 @@
+
+<launch>
+  <node pkg="clm_bridge" type="clm_bridge" name="clm_bridge" output="screen"></node>
+
+
+  <!--<include file="$(find kinect_bridge2)/launch/kinect_client.launch" />-->
+
+  <!--For launching GUI tools <include file="$(find node_example)/launch/tools.launch"/>-->
+</launch>

@@ -1,0 +1,16 @@
+<package format="2">
+  <name>clm_bridge</name>
+  <version>0.0.1</version>
+  <description>
+    clm_bridge from clm to rosmsg
+  </description>
+  <author>Michael Tsang, Vadim Korolik</author>
+  <maintainer email="tsangm@usc.edu">Michael Tsang</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>message_generation</depend>
+
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+</package>

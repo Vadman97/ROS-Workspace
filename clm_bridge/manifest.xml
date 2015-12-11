@@ -1,0 +1,19 @@
+<package>
+  <description brief="clm_bridge">
+
+     clm_bridge
+
+  </description>
+  <author>Michael Tsang, Vadim Korolik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <depend package="rosbuild"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="geometry_msgs"/>
+  <!--<depend package="tf"/>-->
+  <depend package="message_generation" />
+
+</package>
+
+
