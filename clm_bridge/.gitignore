@@ -10,3 +10,6 @@ cfg/cpp
 !lib/*
 !lib/
 !lib
+!bin/*
+!bin/
+!bin
