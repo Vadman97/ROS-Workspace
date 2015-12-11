@@ -1,4 +1,3 @@
-node_example
+clm_bridge
 ============
-
-ROS node examples with parameter server, dynamic reconfigure, and custom messages.
+Convert CLM extracted data to ROS messages
